@@ -16,7 +16,7 @@ messages.insert(INSERT,'Agent:\n' + 'Welcome to the Chatbot-NLP\n\
 
 
 frame = Frame(window)  # , width=300, height=300)
-input_field.bind("<Return>", Enter_pressed)
+#input_field.bind("<Return>", Enter_pressed)
 frame.pack()
 
 
