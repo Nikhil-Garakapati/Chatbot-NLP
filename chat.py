@@ -25,14 +25,14 @@ def Enter_pressed(event):
     # print(input_get)
     messages.insert(INSERT, 'You:\n%s\n\n\n' % input_get)
     if(bot.flag==0):
-    	response = bot.bolo(input_get)
+    	response = bot.reply(input_get)
     	messages.insert(INSERT, 'Agent:\n'+str(response)+'\n\n')
     	if response.startswith("Searching"):
     		bot.flag = 1
 
 
     if(bot.flag==1):
-    	response = bot.Search(input_get)
+    	response = bot.BookHotel(input_get)
     	messages.insert(INSERT, 'Agent:\n'+str(response)+'\n\n')
 
     # label = Label(window, text=input_get)
