@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 from Chatbot import Session
 
 window = Tk()
