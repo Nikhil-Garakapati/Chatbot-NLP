@@ -1,2 +1,2 @@
 # Chatbot-NLP
-A Simple Chatbot with Diagflow architecture and skeleton
+A Simple Chatbot with Dialogflow architecture and skeleton
