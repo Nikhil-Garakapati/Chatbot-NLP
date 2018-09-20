@@ -5,6 +5,8 @@ Each **Intent** has parameters which are elicted by the user for the chatbot to 
 
 Each **Intent** has also an action which is a funtional call after fulfilling the parameters.
 
+Clone using **git clone https://github.com/Nikhil-Garakapati/Chatbot-NLP.git**
+
 Run **pip install -r requirements.txt** in your shell
 
 Then, Run **python3 Chatbot.py** 
