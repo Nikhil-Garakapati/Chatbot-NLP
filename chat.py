@@ -1,5 +1,5 @@
 from tkinter import *
-#from Chatbot import Session
+from Chatbot import Session
 
 window = Tk()
 
