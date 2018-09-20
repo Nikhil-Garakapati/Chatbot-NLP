@@ -167,7 +167,7 @@ def getattributes(uinput,context,attributes):
 		#print(attributes)
 		return attributes, uinput
 
-
+#work flow
 class Session:
 	def __init__(self, attributes=None, active_contexts=[FirstGreeting(), IntentComplete() ]):
 		
