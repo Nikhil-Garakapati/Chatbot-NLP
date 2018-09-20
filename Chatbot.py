@@ -167,7 +167,7 @@ def getattributes(uinput,context,attributes):
 		#print(attributes)
 		return attributes, uinput
 
-
+#work flow
 class Session:
 	def __init__(self, attributes=None, active_contexts=[FirstGreeting(), IntentComplete() ]):
 		
@@ -291,12 +291,12 @@ def BookRestaurant(attributes):
 
 session = Session()
 
-print("RESTAURANT/HOTEL BOOKING PORTAL")
-print("Welcome to the Hotel/Restaurant Booking Portal. What do you want to do?")
+print("Simple Chatbot-NLP")
+print("I can...")
 print("1. Book a Hotel")
 print("2. Book a Restaurant\n\n")
 
-print ('[Team 53 BOT]: Hi! How may I assist you?')
+print ('[BOT]: Hi! How may I assist you?')
 
 while True:
 	
