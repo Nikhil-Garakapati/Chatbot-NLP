@@ -8,3 +8,5 @@ Each **Intent** has also an action which is a funtional call after fulfilling th
 Run **pip install -r requirements.txt** in your shell
 
 Then, Run **python3 Chatbot.py** 
+
+Visit [DialogFlow](www.dialogflow.com) and create a own chatbot to understand the architecture
