@@ -291,8 +291,8 @@ def BookRestaurant(attributes):
 
 session = Session()
 
-print("RESTAURANT/HOTEL BOOKING PORTAL")
-print("Welcome to the Hotel/Restaurant Booking Portal. What do you want to do?")
+print("Simple Chatbot-NLP")
+print("I can...")
 print("1. Book a Hotel")
 print("2. Book a Restaurant\n\n")
 
