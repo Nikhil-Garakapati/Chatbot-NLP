@@ -296,7 +296,7 @@ print("I can...")
 print("1. Book a Hotel")
 print("2. Book a Restaurant\n\n")
 
-print ('[Team 53 BOT]: Hi! How may I assist you?')
+print ('[BOT]: Hi! How may I assist you?')
 
 while True:
 	
